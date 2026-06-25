@@ -9,3 +9,5 @@
 - `24ao.txt`: 凸凹吧完整口令
 - `hotgirl.json`: Hotgirl.biz 规则 JSON
 - `hotgirl.txt`: Hotgirl.biz 完整口令
+- `foamgirl.json`: FoamGirl 规则 JSON
+- `foamgirl.txt`: FoamGirl 完整口令
