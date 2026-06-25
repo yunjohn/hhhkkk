@@ -7,3 +7,5 @@
 - `youwu.txt`: 尤物丧志完整口令
 - `24ao.json`: 凸凹吧规则 JSON
 - `24ao.txt`: 凸凹吧完整口令
+- `hotgirl.json`: Hotgirl.biz 规则 JSON
+- `hotgirl.txt`: Hotgirl.biz 完整口令
