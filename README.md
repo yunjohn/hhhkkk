@@ -12,3 +12,5 @@
 - `4khd.json`: 4KHD 规则 JSON`n- `4khd.txt`: 4KHD 完整口令
 - `ytboob.json`: YTboob 规则 JSON
 - `ytboob.txt`: YTboob 完整口令
+- pikshare.json: PikShare 规则 JSON
+- pikshare.txt: PikShare 完整口令
