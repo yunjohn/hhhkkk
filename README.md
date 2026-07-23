@@ -14,3 +14,7 @@
 - `ytboob.txt`: YTboob 完整口令
 - pikshare.json: PikShare 规则 JSON
 - pikshare.txt: PikShare 完整口令
+- meirentu.json: 美人图规则 JSON
+- meirentu.txt: 美人图完整口令
+- jrants.json: 青年美图规则 JSON
+- jrants.txt: 青年美图完整口令
