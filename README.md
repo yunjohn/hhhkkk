@@ -18,3 +18,5 @@
 - meirentu.txt: 美人图完整口令
 - jrants.json: 青年美图规则 JSON
 - jrants.txt: 青年美图完整口令
+- sexyasiangirl.json: SexyAsianGirl 规则 JSON
+- sexyasiangirl.txt: SexyAsianGirl 完整口令
